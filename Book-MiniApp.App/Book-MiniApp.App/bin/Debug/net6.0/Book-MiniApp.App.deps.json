@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Book-MiniApp.App/1.0.0": {
+        "dependencies": {
+          "Book-MiniApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "Book-MiniApp.App.dll": {}
+        }
+      },
+      "Book-MiniApp.Core/1.0.0": {
+        "runtime": {
+          "Book-MiniApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Book-MiniApp.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Book-MiniApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
