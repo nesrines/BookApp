@@ -1,0 +1,12 @@
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\bin\Debug\net6.0\MiniApp-Book.Core.deps.json
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\bin\Debug\net6.0\MiniApp-Book.Core.dll
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\bin\Debug\net6.0\MiniApp-Book.Core.pdb
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\MiniApp-Book.Core.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\MiniApp-Book.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\MiniApp-Book.Core.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\MiniApp-Book.Core.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\MiniApp-Book.Core.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\MiniApp-Book.Core.dll
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\refint\MiniApp-Book.Core.dll
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\MiniApp-Book.Core.pdb
+C:\Users\Atilla\source\repos\MiniApp-Book.App\MiniApp-Book.Core\obj\Debug\net6.0\ref\MiniApp-Book.Core.dll
