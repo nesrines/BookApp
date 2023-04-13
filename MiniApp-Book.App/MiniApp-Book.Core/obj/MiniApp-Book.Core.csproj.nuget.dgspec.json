@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Atilla\\source\\repos\\MiniApp-Book.App\\MiniApp-Book.Core\\MiniApp-Book.Core.csproj": {}
+    "C:\\Users\\Atilla\\source\\repos\\BookApp\\MiniApp-Book.App\\MiniApp-Book.Core\\MiniApp-Book.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Atilla\\source\\repos\\MiniApp-Book.App\\MiniApp-Book.Core\\MiniApp-Book.Core.csproj": {
+    "C:\\Users\\Atilla\\source\\repos\\BookApp\\MiniApp-Book.App\\MiniApp-Book.Core\\MiniApp-Book.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\MiniApp-Book.App\\MiniApp-Book.Core\\MiniApp-Book.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\BookApp\\MiniApp-Book.App\\MiniApp-Book.Core\\MiniApp-Book.Core.csproj",
         "projectName": "MiniApp-Book.Core",
-        "projectPath": "C:\\Users\\Atilla\\source\\repos\\MiniApp-Book.App\\MiniApp-Book.Core\\MiniApp-Book.Core.csproj",
+        "projectPath": "C:\\Users\\Atilla\\source\\repos\\BookApp\\MiniApp-Book.App\\MiniApp-Book.Core\\MiniApp-Book.Core.csproj",
         "packagesPath": "C:\\Users\\Atilla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Atilla\\source\\repos\\MiniApp-Book.App\\MiniApp-Book.Core\\obj\\",
+        "outputPath": "C:\\Users\\Atilla\\source\\repos\\BookApp\\MiniApp-Book.App\\MiniApp-Book.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Atilla\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,7 +12,7 @@ namespace MiniApp_Book.App.Services.Implementations
             else
             {
                 foreach (Book Book in Books)
-                { Console.WriteLine($"{Book.Title} by {Book.Author} - ${Book.Price}"); }
+                { Console.WriteLine($"{Book.Title} by {Book.Author} - ${Book.Price} (this book was added at {Book.DateWasAdded})"); }
             }
             Console.WriteLine();
         }
@@ -20,7 +20,7 @@ namespace MiniApp_Book.App.Services.Implementations
         {
             Array.Resize(ref Books, Books.Length + 1);
             Book NewBook = new Book();
-
+            NewBook.DateWasAdded = DateTime.UtcNow.AddHours(4);
             Console.WriteLine("Enter the title:");
             NewBook.Title = Console.ReadLine();
             while (String.IsNullOrWhiteSpace(NewBook.Title) || NewBook.Title.Length == 0)
